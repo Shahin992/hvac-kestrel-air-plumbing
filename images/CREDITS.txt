@@ -1,0 +1,139 @@
+Kestrel Air & Plumbing demo: photo credits
+
+Each file in this folder is a crop of the source photo listed below, re-encoded as WebP.
+All photos are used under the Unsplash License (https://unsplash.com/license).
+
+home-fireplace-living-room-*.webp
+  Author: Ronnie George
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/S0-e9aITeHc
+
+home-bright-living-room-*.webp
+  Author: Aalo Lens
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/LqGf5UvHCZ8
+
+plumber-under-sink-*.webp
+  Author: Timur Shakerzianov
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/kxuz4YrLxSc
+
+heat-pump-brick-house-*.webp
+  Author: Alpha Innotec
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/4VCm8l6wLQY
+
+heat-pump-modern-house-*.webp
+  Author: Alpha Innotec
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/kblddocwPa0
+
+heat-pump-lawn-*.webp
+  Author: Alpha Innotec
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/TDtycnfiDa8
+
+tech-brazing-copper-*.webp
+  Author: Battlecreek Coffee Roasters
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/NfG4rXmceFM
+
+plumber-bathroom-*.webp
+  Author: Bhagya Laxmi
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/jaP5ClBdIyU
+
+plumber-cabinet-*.webp
+  Author: Timur Shakerzianov
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/wzIjLL4KB-4
+
+toilet-repair-*.webp
+  Author: Timur Shakerzianov
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/VAGbjhkxg6I
+
+water-valve-gauge-*.webp
+  Author: Gabriel Vasiliu
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/rmkGUywYGeA
+
+water-heater-exterior-*.webp
+  Author: Sergio Martins
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/Mqtt4KNB8Ck
+
+thermostat-adjust-*.webp
+  Author: HUUM
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/3_nf1qKJGf4
+
+thermostat-press-*.webp
+  Author: HUUM
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/Ymp_8DatASs
+
+techs-tablet-*.webp
+  Author: Alan Boyce
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/gyrKtgqMChY
+
+tool-belt-van-*.webp
+  Author: Kevin Grieve
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/3CKZS3-o3XU
+
+tech-marcus-*.webp
+  Author: Iain Feeney
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/KP1lfW7ipOk
+
+tech-dana-*.webp
+  Author: Darren Richardson
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/iY0GFYADmU0
+
+tech-jordan-*.webp
+  Author: Gilda Gonzalez
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/UqHd7ge2kWU
+
+founder-tom-*.webp
+  Author: Frank Didszuleit
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/jP3IwzMtDE0
+
+house-grey-lawn-*.webp
+  Author: Roger Starnes Sr
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/1XRV7Z4lhGo
+
+house-white-porch-*.webp
+  Author: Todd Kent
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/178j8tJrNlc
+
+house-blue-*.webp
+  Author: Ian Macdonald
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/pmqTJDVbKdM
+
+house-brick-ranch-*.webp
+  Author: Roger Starnes Sr
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/AefnJqqb1Ao
+
+suburb-aerial-*.webp
+  Author: Breno Assis
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/r3WAWU5Fi5Q
+
+family-dog-floor-*.webp
+  Author: Dreame
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/npsVLnIEb_o
+
+dad-kid-couch-*.webp
+  Author: OPPO Find X5 Pro
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/mCxk_ba7CJ8
